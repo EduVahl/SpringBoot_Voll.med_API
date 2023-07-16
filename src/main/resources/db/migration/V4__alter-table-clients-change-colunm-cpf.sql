@@ -1,0 +1,1 @@
+alter table clients modify cpf varchar(11) not null unique;
